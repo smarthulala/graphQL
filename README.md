@@ -6,3 +6,5 @@ To initiate the backend server, navigate to the GraphQL directory and execute th
 
 # Frontend Operation
 For the frontend component, access the client folder and execute the following command: npm run start
+
+
