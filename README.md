@@ -1,5 +1,5 @@
 
-# Backend Server Execution
+# Backend Server
 To initiate the backend server, navigate to the GraphQL directory and execute the command: npm run dev
 
 # Frontend Operation
